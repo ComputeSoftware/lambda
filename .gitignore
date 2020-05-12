@@ -3,3 +3,6 @@
 **/target/**
 !**/target/**/
 !**/target/**/.gitkeep
+.idea
+*.iml
+*.jar
